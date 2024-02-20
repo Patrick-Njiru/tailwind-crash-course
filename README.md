@@ -4,4 +4,4 @@ I just finished a crash course on Tailwind CSS, which involved creating a simple
 
 Tailwind CSS is a better framework than Bootstrap since it allows you to be more flexible and easily create custom styles.
 
-#### [live link]('https://patrick-njiru.github.io/tailwind-crash-course/')
+#### [live link](https://patrick-njiru.github.io/tailwind-crash-course/)
